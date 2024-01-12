@@ -87,13 +87,20 @@
     {/if}
   </div>
 
-  <div class="z-20 absolute flex flex-row bottom-0 left-0">
-    <div class=" mx-2 my-1">
+  <div class="z-20 absolute flex flex-row bottom-0 left-0 justify-start items-end">
+
+    <div class=" mx-2 my-2">
       <button class=" bg-none text-fontColor border border-fontColor rounded py-2 px-2 active:scale-95 duration-duration-40 hover:border-fontColorHover" on:click={() => { toggleSway(); buttonClicked = true; }}>Toggle Sway</button>
     </div>
-    <div class=" mx-2 my-1">
-      <button class=" bg-none text-fontColor border border-fontColor rounded py-2 px-2 active:scale-95 duration-duration-40 hover:border-fontColorHover" on:click={() => { toggleBgSpin(); buttonClicked = true; }}>Toggle bg spin</button>
+
+    <div class=" mx-2 my-2">
+      <button class=" bg-none text-fontColor border border-fontColor rounded py-2 px-2 active:scale-95 duration-duration-40 hover:border-fontColorHover" on:click={() => { toggleBgSpin(); buttonClicked = true; }}>Toggle bg</button>
     </div>
+
+    <div class=" mx-2 my-2">
+      <a href="https://github.com/Flammemus/QuestionGenerator"><span class=" text-fontColor underline hover:text-blue-500">Github project page</span></a>
+    </div>
+
   </div>
   
   <div class="z-10 absolute">
