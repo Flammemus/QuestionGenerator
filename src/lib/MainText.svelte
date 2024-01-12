@@ -98,7 +98,7 @@
     </div>
 
     <div class=" mx-2 my-2">
-      <a href="https://github.com/Flammemus/QuestionGenerator"><span class=" text-fontColor underline hover:text-blue-500">Github project page</span></a>
+      <a href="https://github.com/Flammemus/QuestionGenerator" target="_blank"><span class=" text-fontColor underline hover:text-blue-500" on:click={() => { buttonClicked = true; }}>Github project page</span></a>
     </div>
 
   </div>
