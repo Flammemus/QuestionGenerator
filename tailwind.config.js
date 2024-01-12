@@ -9,7 +9,7 @@ export default {
         "customRed": "#f55951",
 
         "fontColor": "#E5DFBB",
-        "fontColorHover": "#CCC6A2",
+        "fontColorHover": "#FFFFEE",
         "backgroundColor": "#0f0f0f",
       },
       transitionDuration: {
