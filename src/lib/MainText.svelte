@@ -39,11 +39,26 @@
   "Hvis du kunne bytte liv med en fiktiv karakter, hvem hadde det vært?",
   "Hva er det mest ubrukelige talentet du har?",
   "Hvis du kunne ha middag med hvilken som helst historisk skikkelse, hvem ville det være?",
-  "Hva er det merkeligste faktumet du kjenner?",
-  
+  "Hva er 'funfacten' du kjenner til?",
   "Hvis du kunne hatt én superkraft som du bare kunne brukt én gang om dagen, hva hadde det vært?",
   "Hvis det var én chore du ikke trengte å gjøre resten av livet, hva hadde det vært?",
   "Hvis du kunne hatt én samtale med et objekt, hvilket hadde det vært?",
+  "Hvis du kunne være et sted i verden akkurat nå, hvor ville det vært?",
+  "Et musikkinstrument du automatisk hadde mestret, hvilket hadde det vært?",
+  "Hvis du kunne bytte kroppsdeler med en venn for en dag, hvilken kroppsdel ville du valgt?",
+  "Hva er den mest uvanlige maten du har laget selv?",
+  "Hvis du kunne hatt et ekstra organ, hvilket organ hadde det vært",
+  "Hva er den mest absurde situasjonen du har vært i?",
+  "Hva er den rareste interessen du har?",
+  "Hva er den rareste tingen du har samlet på?",
+  "Hvis du kunne være en superhelt's sidekick, hvilken superhelt hadde du valgt?",
+  "Hva er den rareste drømmen du har hatt som du faktisk husker?",
+  "Hva er den mest absurde saken du har sett på nyhetene?",
+  "Hva er den mest bisarre teorien du har hørt om?",
+  "Hva er den rareste maten du har laget mens du var sulten sent på kvelden?",
+  "Hva er den mest bisarre tanken du har hatt mens du stirret ut i det tomme rommet?",
+  "Hva er den rareste tingen du har funnet i kjøleskapet ditt?",
+  "Hva er den mest absurde tingen du har sett noen gjøre på offentlig transport?",
   ];
 
 
@@ -64,11 +79,9 @@
         availableQuestions.splice(randomIndex, 1);
         selectedQuestions.push(selectedQuestion);
 
-
-
         innsjekkText = selectedQuestion;
       } else {
-        innsjekkText = "No more questions available";
+        innsjekkText = "Ikke flere spørmsål";
       }
     }
 
