@@ -46,7 +46,6 @@
   "Hvis du kunne være et sted i verden akkurat nå, hvor ville det vært?",
   "Et musikkinstrument du automatisk hadde mestret, hvilket hadde det vært?",
   "Hva er den mest uvanlige maten du har laget selv?",
-  "Hvis du kunne hatt et ekstra organ, hvilket organ hadde det vært",
   "Hva er den mest absurde situasjonen du har vært i?",
   "Hva er den rareste interessen du har?",
   "Hva er den rareste tingen du har samlet på?",
