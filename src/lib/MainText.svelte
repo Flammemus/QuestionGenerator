@@ -49,7 +49,6 @@
   "Hva er den mest absurde situasjonen du har vært i?",
   "Hva er den rareste interessen du har?",
   "Hva er den rareste tingen du har samlet på?",
-  "Hva er den rareste drømmen du har hatt som du faktisk husker?",
   "Hva er den mest absurde saken du har sett på nyhetene?",
   "Hva er den mest interessante teorien du har hørt om?",
   "Hva er den rareste maten du har laget mens du var sulten sent på kvelden?",
