@@ -45,7 +45,6 @@
   "Hvis du kunne hatt én samtale med et objekt, hvilket hadde det vært?",
   "Hvis du kunne være et sted i verden akkurat nå, hvor ville det vært?",
   "Et musikkinstrument du automatisk hadde mestret, hvilket hadde det vært?",
-  "Hvis du kunne bytte kroppsdeler med en venn for en dag, hvilken kroppsdel ville du valgt?",
   "Hva er den mest uvanlige maten du har laget selv?",
   "Hvis du kunne hatt et ekstra organ, hvilket organ hadde det vært",
   "Hva er den mest absurde situasjonen du har vært i?",
@@ -59,6 +58,12 @@
   "Hva er den mest bisarre tanken du har hatt mens du stirret ut i det tomme rommet?",
   "Hva er den rareste tingen du har funnet i kjøleskapet ditt?",
   "Hva er den mest absurde tingen du har sett noen gjøre på offentlig transport?",
+  "Hvis du kunne velge et ferdighet fra et dyr, hvilken ville det vært?",
+  "Hva er den rareste trenden du har sett på sosiale medier?",
+  "Hvis du kunne ha valgt et annet navn til deg selv, hva ville det vært?",
+  "Hvis du kunne reise tilbake i tid og være vitne til et historisk øyeblikk, hvilket ville du valgt?",
+  "Hvis du kunne ha en overnaturlig evne utenfor det vanlige, hva ville det vært?",
+  "Hvis du kunne bli ekspert i en form for kunst over natten, hvilken ville det vært?",
   ];
 
 
